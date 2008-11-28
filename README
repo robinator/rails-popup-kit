@@ -1,0 +1,9 @@
+A lightweight general purpose JavaScript DOM element popup class.
+
+This single class can create tooltips, dropdown menus, modal and non-modal popup elements. Popups can be draggable and have auto-close or click-to-close functionality. Scriptaculous effects can be applied when opening and closing popups. Behavior can be customized with over a dozen options, but the defaults are reasonable and options are often not required.
+
+The script is Prototype based and uses Scriptaculous effects and dragdrop libraries (which come by default in Ruby on Rails projects).
+
+Also included are examples showing how to use DOM Popups with Ruby on Rails to create rich information popups and modal forms (AJAX and non-AJAX).
+
+Take a look at the demo page to see DOM popups in action.
